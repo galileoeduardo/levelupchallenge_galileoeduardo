@@ -1,0 +1,58 @@
+.bcep-container {
+    overflow-y: hidden;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    
+}
+
+.bcep-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 25%;
+    margin: 0 40px;
+}
+
+.bcep-form form {
+    display: flex;
+    align-items: center;
+    fLex-direction: column;
+    
+    width: 100%;
+    margin-top: 20px;
+}
+
+.bcep-view {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 75%;
+    height: 92vh;
+    background-color: #ff0013;
+}
+
+.bcep-view .container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    height: 80%;
+    padding: 10%;
+    box-sizing: border-box;
+    background-color: #f3f3f3;
+    transition: opacity 0.5s;
+}
+
+.mapouter{
+    position:relative;
+    text-align:right;
+    width: 100%;
+    padding: 20px 0px;
+};
+
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+    width:100%;
+};
