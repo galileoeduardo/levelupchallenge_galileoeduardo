@@ -8,6 +8,6 @@ react >=16.0.1
 
 Execute os comandos para rodar o projeto:
 git clone https://github.com/galileoeduardo/levelupchallenge_galileoeduardo.git
-cd .\levelupchallenge_galileoeduardo\frontend
+cd .\levelupchallenge_galileoeduardo\frontendgit add
 npm update
 yarn start
