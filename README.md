@@ -1,3 +1,4 @@
+<pre>
 # levelupchallenge_galileoeduardo
 Teste para a vaga de front-end developer
 
@@ -7,7 +8,10 @@ npm >=7.3.0
 react >=16.0.1
 
 Execute os comandos para rodar o projeto: (para winodws as barras são invertidas)
+
 git clone https://github.com/galileoeduardo/levelupchallenge_galileoeduardo.git
-cd .\evelupchallenge_galileoeduardo\frontend
+cd .\evelupchallenge_galileoeduardo\frontend\n
 npm update
 yarn start
+
+</pre>
